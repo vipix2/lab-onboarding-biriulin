@@ -1,0 +1,197 @@
+============================================
+         Диагностика компьютера
+============================================
+
+Операционная система
+--------------------------------------------
+Название: Майкрософт Windows 11 Pro
+Версия:   10.0.26200
+
+Процессор
+--------------------------------------------
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+
+Оперативная память
+--------------------------------------------
+Всего памяти: 16 ГБ
+Свободно памяти: 5 ГБ
+
+Диск C
+--------------------------------------------
+Общий размер: 231 ГБ
+Свободно: 25 ГБ
+
+Установленные программы
+--------------------------------------------
+draw.io 31.4.5
+Meridius 3.4.0
+Deadlock+
+Happ - Proxy Utility 1.0.2(359)
+MantaRay 2.0.2
+Mozilla Firefox (x64 ru)
+Mozilla Maintenance Service
+Microsoft OneDrive
+Microsoft Office LTSC профессиональный плюс 2024 - ru-ru
+Riot Vanguard
+Cyberpunk 2077
+Pumpkin Jack
+A Way Out
+Battlefield™ 1
+Barro F
+The Outlast Trials
+JoJo's Bizarre Adventure: All-Star Battle R
+My Singing Monsters
+Tiny Bunny
+Deadlock
+Mortal Kombat 1
+Banana Hell: Mountain of Madness
+Backrooms: Escape Together
+Just Cause 3
+Dying Light
+The Forest
+Scam Line
+SILENT BREATH
+Nuclear Nightmare
+Brawlhalla
+The Witcher 3: Wild Hunt
+Mortal Kombat X
+Five Nights at Freddy's
+The Jackbox Party Pack 11
+PEAK
+SIGame
+IQ Under Construction
+Burglin' Gnomes
+Five Nights at Freddy's 4
+RV There Yet?
+Outlast 2
+Brainrot Online
+Wallpaper Engine
+Far Cry 5
+Dota 2
+Dead Cells
+Devil May Cry 5
+Just Cause™ 3: Multiplayer Mod
+Devil May Cry HD Collection
+Atomic Heart
+Counter-Strike 2
+Granny
+Mortal Kombat 11
+StingRay 1.0
+Unigine Superposition Benchmark 1.1
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664
+Microsoft .NET Runtime - 10.0.2 (x64)
+Microsoft.NET.Sdk.Maui.Manifest-10.0.100 (x64)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+Microsoft Windows Application Compatibility Fix Database
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64)
+Geeks3D FurMark 2.10.2 x64
+Epic Games Launcher
+Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64)
+Microsoft.NET.Sdk.tvOS.Manifest-10.0.100 (x64)
+Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64)
+Microsoft .NET Host - 10.0.2 (x64)
+Microsoft .NET Toolset 10.0.102 (x64)
+VK Calls
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664
+Cloudflare WARP
+AmneziaWG
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64)
+REDlauncher
+Проверка работоспособности ПК Windows
+Microsoft ASP.NET Core Targeting Pack - 10.0.2 (x64)
+Microsoft .NET Host FX Resolver - 8.0.27 (x64)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247
+Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64)
+Java 8 Update 401 (64-bit)
+Microsoft Windows Desktop Targeting Pack - 10.0.2 (x64)
+Microsoft ASP.NET Core Runtime - 10.0.2 (x64)
+Microsoft.NET.Sdk.iOS.Manifest-10.0.100 (x64)
+HitVPN
+Office 16 Click-to-Run Licensing Component
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247
+Microsoft Windows Desktop Runtime - 10.0.2 (x64)
+Microsoft .NET 10.0 Templates 10.0.102 x64
+Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64)
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft .NET AppHost Pack - 10.0.2 (x64)
+NVIDIA Графический драйвер 610.88
+NVIDIA App 11.0.7.237
+NVIDIA MessageBus 3 for NvApp
+NVIDIA Backend
+NvCpl
+NVIDIA Системное программное обеспечение PhysX 9.23.1019
+NVIDIA FrameView SDK 1.7.12227.37421622
+NVIDIA Install Application
+NVIDIA Container
+NVIDIA AIUser Container
+NVIDIA LocalSystem Container
+NVIDIA Session Container
+NVIDIA User Container
+NVIDIA NvDLISR
+NVIDIA Watchdog Plugin for NvContainer
+NVIDIA Telemetry Client
+NVIDIA ShadowPlay 11.0.7.0
+NVIDIA Virtual Audio 4.65.0.12
+Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64)
+Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64)
+EA app
+Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64)
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Microsoft Windows Desktop Runtime - 8.0.27 (x64)
+Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64)
+Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64)
+Microsoft .NET Targeting Pack - 10.0.2 (x64)
+Microsoft .NET Host FX Resolver - 10.0.2 (x64)
+Microsoft .NET Runtime - 8.0.27 (x64)
+Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64)
+Microsoft .NET Host - 8.0.27 (x64)
+Adobe Creative Cloud
+Battlelog Web Plugins
+ESN Sonar
+FL Cloud Plugins version 1.9.3
+FL Studio 2024
+FL Studio ASIO
+Google Chrome
+Microsoft Edge
+Среда выполнения Microsoft Edge WebView2 Runtime
+OpenAL
+Adobe Photoshop CC 2019
+Adobe Premiere Pro 2025
+Rockstar Games Launcher
+Rockstar Games SDK
+Steam
+TLauncher
+Ubisoft Connect
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247
+Помощник по установке Windows 11
+Microsoft Windows Desktop Runtime - 8.0.27 (x64)
+Battlefield 1
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+Epic Online Services
+EA app
+Java Auto Updater
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36247
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36247
+Zapret 2 Dev, версия 20.4.4.21
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664
+TechPowerUp GPU-Z
+Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664
+Radmin VPN 2.1.1
+Microsoft .NET SDK 10.0.102 (x64)
+A Way Out
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501
+
+============================================
+Отчёт сохранён
